@@ -6,6 +6,10 @@ module.exports = {
   theme: {
     extend: {},
   },
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> 505b6aaa9512470d4b9c6715bf148c664ef07828
   plugins: [],
 }

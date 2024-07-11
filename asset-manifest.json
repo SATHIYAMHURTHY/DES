@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.581ac643.css",
-    "main.js": "/static/js/main.b2381580.js",
-    "static/js/453.8f4b1483.chunk.js": "/static/js/453.8f4b1483.chunk.js",
-    "static/media/aboutus.jpg": "/static/media/aboutus.71e5659ce6acc1e1134c.jpg",
-    "static/media/service 1.png": "/static/media/service 1.16ce3f0a9a51f99cc258.png",
-    "static/media/service 2.png": "/static/media/service 2.ae83eeb2ef189d06157c.png",
-    "static/media/amc.png": "/static/media/amc.668ae0a96a2e10fd4e27.png",
-    "static/media/d.png": "/static/media/d.029cedba1c6d307a6db4.png",
-    "static/media/logo.png": "/static/media/logo.e2aa5f1e031abe25a696.png",
-    "static/media/service 3.png": "/static/media/service 3.8a64d0fbe2dfebc54a4b.png",
-    "static/media/serv.png": "/static/media/serv.45b4e0d2248a2d3af420.png",
-    "static/media/footer.svg": "/static/media/footer.d42296ecc3176e577ee2.svg",
-    "index.html": "/index.html",
-    "static/media/hero-bg.svg": "/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
-    "main.581ac643.css.map": "/static/css/main.581ac643.css.map",
-    "main.b2381580.js.map": "/static/js/main.b2381580.js.map",
-    "453.8f4b1483.chunk.js.map": "/static/js/453.8f4b1483.chunk.js.map"
+    "main.css": "/DES/static/css/main.d0f7c8ad.css",
+    "main.js": "/DES/static/js/main.f2d993f1.js",
+    "static/js/453.8f4b1483.chunk.js": "/DES/static/js/453.8f4b1483.chunk.js",
+    "static/media/aboutus.jpg": "/DES/static/media/aboutus.71e5659ce6acc1e1134c.jpg",
+    "static/media/service 1.png": "/DES/static/media/service 1.16ce3f0a9a51f99cc258.png",
+    "static/media/service 2.png": "/DES/static/media/service 2.ae83eeb2ef189d06157c.png",
+    "static/media/amc.png": "/DES/static/media/amc.668ae0a96a2e10fd4e27.png",
+    "static/media/d.png": "/DES/static/media/d.029cedba1c6d307a6db4.png",
+    "static/media/logo.png": "/DES/static/media/logo.e2aa5f1e031abe25a696.png",
+    "static/media/service 3.png": "/DES/static/media/service 3.8a64d0fbe2dfebc54a4b.png",
+    "static/media/serv.png": "/DES/static/media/serv.45b4e0d2248a2d3af420.png",
+    "static/media/footer.svg": "/DES/static/media/footer.d42296ecc3176e577ee2.svg",
+    "index.html": "/DES/index.html",
+    "static/media/hero-bg.svg": "/DES/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.d0f7c8ad.css.map": "/DES/static/css/main.d0f7c8ad.css.map",
+    "main.f2d993f1.js.map": "/DES/static/js/main.f2d993f1.js.map",
+    "453.8f4b1483.chunk.js.map": "/DES/static/js/453.8f4b1483.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.581ac643.css",
-    "static/js/main.b2381580.js"
+    "static/css/main.d0f7c8ad.css",
+    "static/js/main.f2d993f1.js"
   ]
 }
